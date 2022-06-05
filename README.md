@@ -11,7 +11,7 @@ This is a basic daily calendar application that loops through the hours of 9am -
 - With the help of jQuery and Moment.js
 
 # Deployed Webpage Screenshot
-![Screenshot of App](/../homework-5-work-day-scheduler/assets/images/work-day-scheduler-app-demo.png)
+![Screenshot of App](https://github.com/Sm4ck101/homework-5-work-day-scheduler/blob/main/assets/images/work-day-scheduler-app-demo.png)
 
 
 
